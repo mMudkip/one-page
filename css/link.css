@@ -1,0 +1,15 @@
+.link {
+  text-decoration: none;
+  text-align: center;
+  transition: 0.1s;
+  color: var(--primary500);
+}
+
+.link:hover {
+  color: var(--primary600);
+  cursor: pointer;
+}
+
+.link:active {
+  color: var(--primary700);
+}
